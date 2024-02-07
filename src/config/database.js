@@ -1,5 +1,5 @@
 module.exports = {
-    dialect: 'myqsl',
+    dialect: 'mysql',
     host: 'localhost',
     username: 'root',
     password: '1996',
