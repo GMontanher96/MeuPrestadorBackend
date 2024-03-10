@@ -1,6 +1,5 @@
 const Sequelize = require('sequelize');
 const configDB = require('../config/database');
-
 const User = require('../models/User') // chama a classe User
 const Profile = require('../models/Profile')
 
